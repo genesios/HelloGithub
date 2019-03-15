@@ -1,0 +1,11 @@
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/bin/Debug/netcoreapp2.2/HelloGithub.deps.json
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/bin/Debug/netcoreapp2.2/HelloGithub.runtimeconfig.json
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/bin/Debug/netcoreapp2.2/HelloGithub.runtimeconfig.dev.json
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/bin/Debug/netcoreapp2.2/HelloGithub.dll
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/bin/Debug/netcoreapp2.2/HelloGithub.pdb
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.csprojAssemblyReference.cache
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.csproj.CoreCompileInputs.cache
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.AssemblyInfoInputs.cache
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.AssemblyInfo.cs
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.dll
+/Users/luisosinaga/Projects/HelloGitHub/HelloGithub/obj/Debug/netcoreapp2.2/HelloGithub.pdb
